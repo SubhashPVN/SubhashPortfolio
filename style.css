@@ -1,0 +1,21 @@
+.page{
+    
+    background-color: bisque;
+}
+.profile{
+    border-radius: 40%;
+}
+.main{
+    font-family: sans-serif;
+}
+.sub{
+    font-family: Arial, sans-serif ;
+    font-weight: lighter;
+    
+}
+.container{
+    background-color:#BBE2EC;
+}
+.pic{
+    padding: 20cap;
+}
